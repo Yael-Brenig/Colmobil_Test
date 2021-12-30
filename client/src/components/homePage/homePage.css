@@ -1,0 +1,20 @@
+.home .card {
+  margin-right: 30% !important;
+  margin-left: 40% !important;
+  margin-top: 2%;
+  width: 50% !important;
+}
+.span {
+  font-size: 50px;
+  color: white !important;
+  text-align: center;
+  margin-top: 0% !important;
+}
+.divColor {
+  background-color: rgb(79, 109, 245);
+  height: 30vh;
+}
+.input {
+  margin-top: 7% !important;
+  width: 100%;
+}

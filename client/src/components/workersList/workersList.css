@@ -1,0 +1,13 @@
+.card-list .card {
+  flex: 0 0 33%;
+  margin-top: 2%;
+  margin-left: 15px !important;
+  margin-right: 15px !important;
+  padding: 25px;
+  background-color: rgb(103, 103, 165);
+  border-radius: 39px;
+}
+.card-list {
+  display: flex;
+  justify-content: center;
+}
